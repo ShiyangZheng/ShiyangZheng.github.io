@@ -14,6 +14,7 @@ Lexical Inferencing in A Multilingual Mind: Insights from Chinese-English-Japane
 Manuscripts
 ======
 Lin., FAN, & Shiyang., ZHENG. (Accepted). Gender Differences in Color and Color Words Processing: Evidence from Linear Mixed-Effect Model. _Contemporary Foreign Languages Studies_.
+
 Shiyang., ZHENG, Lin., FAN, Qingxu., ZHAI, Jiao., ZHANG, & Rong., WEI. (Under Review). Form-Meaning Trade-off: Insights from Chinese-English-Japanese Trilinguals’ Lexical Inferencing.
 
 2023
