@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dissertation
+Thesis
 ------
 Lexical Inferencing in A Multilingual Mind: Insights from Chinese-English-Japanese trilinguals’ eye-movements during reading
 
