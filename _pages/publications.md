@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Thesis
+------
+- Lexical Inferencing in A Multilingual Mind: Insights from Chinese-English-Japanese trilinguals’ eye-movements during reading
+
+Manuscripts
+------
+- Lin., FAN, & Shiyang., ZHENG. (accepted). Gender Differences in Color and Color Words Processing: Evidence from Linear Mixed-Effect Model. _Contemporary Foreign Languages Studies_.
+
+- Shiyang., ZHENG, Lin., FAN, Qingxu., ZHAI, Jiao., ZHANG, & Rong., WEI. (under review). Form-Meaning Trade-off: Insights from Chinese-English-Japanese Trilinguals’ Lexical Inferencing.
 
 2023
 ------
