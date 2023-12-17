@@ -7,20 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Overview
+------
+I am currently an MA student in the field of language acquisition and multilingualism. I am deeply fascinated by the intricacies of language as a complex and dynamic system. My research interests revolve around exploring how our intricate minds navigate and respond to the various phenomena encountered in language processing and acquisition.
+
+In my current studies, I have focused on topics such as lexical inferencing and incidental vocabulary acquisition from a multilingual perspective. Drawing inspiration from cognitive linguistics literature, I have developed the belief that the traditional distinction between words and grammar may not hold true. Instead, I view all linguistic information stored and processed in our minds as equal entities, regardless of their size. They are essentially units or chunks of information.
+
+One subject closely related to my research interests is formulaic language, which encompasses units ranging from components of words to syntactically complete phrases. Formulaic language will be the primary focus of my future studies.
+
 Thesis
 ------
-Lexical Inferencing in A Multilingual Mind: Insights from Chinese-English-Japanese trilinguals’ eye-movements during reading
+- Lexical Inferencing in A Multilingual Mind: Insights from Chinese-English-Japanese trilinguals’ eye-movements during reading
 
 Manuscripts
 ------
-Lin., FAN, & Shiyang., ZHENG. (Accepted). Gender Differences in Color and Color Words Processing: Evidence from Linear Mixed-Effect Model. _Contemporary Foreign Languages Studies_.
+- Lin., FAN, & Shiyang., ZHENG. (accepted). Gender Differences in Color and Color Words Processing: Evidence from Linear Mixed-Effect Model. _Contemporary Foreign Languages Studies_.
 
-Shiyang., ZHENG, Lin., FAN, Qingxu., ZHAI, Jiao., ZHANG, & Rong., WEI. (Under Review). Form-Meaning Trade-off: Insights from Chinese-English-Japanese Trilinguals’ Lexical Inferencing.
+- Shiyang., ZHENG, Lin., FAN, Qingxu., ZHAI, Jiao., ZHANG, & Rong., WEI. (under review). Form-Meaning Trade-off: Insights from Chinese-English-Japanese Trilinguals’ Lexical Inferencing.
 
-2023
-======
-Shiyang., ZHENG. (2023). 3D and Blending: Psychological Reality of the Conceptual Integration Theory. _Modern Linguistics_. [DOI](https://doi.org/10.12677/ML.2023.119514) [PDF](https://www.hanspub.org/DownLoad/Page_DownLoad.aspx?FileName=ML20230900000_39675185.pdf)
-
-2022
-======
-Shiyang., ZHENG. (2022). Fuzzy Boundary: The Categorization of ‘SheKong’. _Advances in Psychology_. [DOI](https://doi.org/10.12677/AP.2022.127293) [PDF](https://www.hanspub.org/DownLoad/Page_DownLoad.aspx?FileName=AP20220700000_63581378.pdf)
+Academic background
+------
+- MA in Linguistics and Applied Linguistics, Beijing Foreign Studies University, Beijing, China (2021-2024)
+- BA in Teaching Chinese as a Second Language, Yan'an University, Sha'anxi, China (2016-2020)
