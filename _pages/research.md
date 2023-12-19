@@ -1,11 +1,9 @@
 ---
 layout: archive
-permalink: /research/
 title: "Research"
-excerpt: "Research"
+permalink:  /research/
 author_profile: true
 ---
-
 My research revolves around how our multilingual minds work.
 
 How Multilinguals process and learn their languages? 
