@@ -3,20 +3,19 @@ permalink: /research
 title: "Research"
 excerpt: "Research"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+
 ---
-Overview
+
+My research revolves around how our multilingual minds work.
+
+How Multilinguals process and learn their languages? 
 ======
-I am currently an MA student in the field of language acquisition and multilingualism. I am deeply fascinated by the intricacies of language as a complex and dynamic system. My research interests revolve around exploring how our intricate minds navigate and respond to the various phenomena encountered in language processing and acquisition.
+The multilingual system is not simply a combination of L1 and L2 (and additional languages). The traditional view portrays each language we know as independent systems in our mind. However, numerous studies suggest that languages in our mind actually interact with one another. The learning of words in one language has an impact on all other languages as well as the language system itself. This new perspective originates from the Dynamic Systems Theory (de Bot, 2008; Larsen-Freeman & Cameron, 2008) and Translanguaging (Wei, 2018).
 
-In my current studies, I have focused on topics such as lexical inferencing and incidental vocabulary acquisition from a multilingual perspective. Drawing inspiration from cognitive linguistics literature, I have developed the belief that the traditional distinction between words and grammar may not hold true. Instead, I view all linguistic information stored and processed in our minds as equal entities, regardless of their size. They are essentially units or chunks of information that can be stored and retrieved from our long-term memories.
+In my research, I have explored how our dynamic multilingual systems respond to the task of deriving the meaning of novel words during reading and the resulting learning gains achieved through significant cognitive efforts. 
 
-One subject closely related to my research interests is formulaic language, which encompasses units ranging from components of words to syntactically complete phrases. Formulaic language will be the primary focus of my future studies.
+As I delved into related papers, particularly those rooted in cognitive linguistics, I began to question the validity of the concept of the 'word'.
 
+A highly relevant line of research that caught my attention is formulaic language. It encompasses units ranging from components of words to syntactically complete phrases. The flexibility of such language units offers an opportunity to re-evaluate the concept of the word. 
 
-Academic background
-------
-- MA in Linguistics and Applied Linguistics, Beijing Foreign Studies University, Beijing, China (2021-2024)
-- BA in Teaching Chinese as a Second Language, Yan'an University, Sha'anxi, China (2016-2020)
+Consequently, my future focus will be on how formulaic language is processed and acquired in our multilingual minds.
