@@ -1,10 +1,9 @@
 ---
 layout: archive
-permalink: /research
+permalink: /research/
 title: "Research"
 excerpt: "Research"
 author_profile: true
-
 ---
 
 My research revolves around how our multilingual minds work.
