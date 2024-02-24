@@ -26,4 +26,4 @@ Language background
 - Chinese (native)
 - English (C1)
 - Japanese (B2)
-- German （beginner)
+- German (beginner)
