@@ -20,3 +20,10 @@ Academic background
 ------
 - MA in Linguistics and Applied Linguistics, Beijing Foreign Studies University, Beijing, China (2021-2024)
 - BA in Teaching Chinese as a Second Language, Yan'an University, Sha'anxi, China (2016-2020)
+
+Language background
+-------
+- Chinese (native)
+- English (C1)
+- Japanese (B2)
+- German （beginner)
