@@ -20,7 +20,7 @@ Academic background
 ------
 - PhD in Psycholinguistics, University of Nottingham, Nottingham, UK (2024 - )
 - MA in Linguistics and Applied Linguistics, Beijing Foreign Studies University, Beijing, China (2021-2024)
-- BA in Teaching Chinese as a Second Language, Yan'an University, Sha'anxi, China (2016-2020)
+- BA in Teaching Chinese to Speakers of Other Languages, Yan'an University, Sha'anxi, China (2016-2020)
 
 Language background
 -------
