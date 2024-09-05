@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Shiyang ZHENG"
+title                    : "Shiyang Zheng"
 title_separator          : "-"
 name                     : &name "Shiyang Zheng"
 description              : &description "personal description"
@@ -56,7 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+# twitter:
   username               : &twitter
 facebook:
   username               :
@@ -87,7 +87,7 @@ author:
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.cz/citations?hl=zh-CN&user=RyfmgH4AAAAJ"
-  email            : zhengshiyangxiezuo@163.com
+  email            : shiyang.zheng@nottingham.ac.uk
   researchgate     : "https://www.researchgate.net/profile/Shiyang-Zheng-4" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ShiyangZheng97"
+  # twitter          : "ShiyangZheng97"
   vine             :
   weibo            :
   xing             :
