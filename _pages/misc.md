@@ -4,15 +4,14 @@ title: "Misc"
 permalink:  /misc/
 author_profile: true
 ---
-Besides exploring language acquisition and processing, I am also very interested in web development. I learned JavaScript during my MA, but currently 
-I am more concerned with R programming. I have written some interesting tools related to language studies using R Shiny, and I am also developing a learning app
-based on R Shiny.
+In addition to my research on language acquisition and processing, I have a strong interest in web development. During my Master's program, I gained proficiency in JavaScript, but my current focus has shifted to R programming. Leveraging R Shiny, I have developed several tools for linguistic research. Additionally, I am currently building an interactive learning application using R Shiny to further explore its capabilities in educational technology.
 
 
-----
+---
+R shiny tools:
 [Updated Vocabulary Levels Test for English and Japanese](https://shiyangzheng.shinyapps.io/uvlt)
 
 [A guide for conducting meta-analysis](https://shiyangzheng.shinyapps.io/metaguider)
 
-[A LLM-based Rater](https://shiyangzheng.shinyapps.io/chatRaterShiny)
+[An LLM Rating Generator](https://shiyangzheng.shinyapps.io/chatRaterShiny)
 
