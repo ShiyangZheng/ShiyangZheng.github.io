@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : # "Shiyang Zheng"
-title_separator          : "-"
+title                    : "Shiyang Zheng"
+title_separator          :  "-"
 name                     : &name "Shiyang Zheng"
 description              : &description "personal description"
 url                      : https://shiyangzheng.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
