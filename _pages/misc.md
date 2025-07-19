@@ -20,5 +20,5 @@ R shiny tools:
 ---
 Pavlovia tools:
 
-- [Pavlovia Survey: LexTALE-English](https://run.pavlovia.org/pavlovia/survey-2024.2.0/?surveyId=f3d1ce77-cba5-4d4b-9c1a-0819f606ca23)
+- [Pavlovia Survey: LexTALE - Chinese Version](https://run.pavlovia.org/pavlovia/survey-2024.2.0/?surveyId=f3d1ce77-cba5-4d4b-9c1a-0819f606ca23)
 
