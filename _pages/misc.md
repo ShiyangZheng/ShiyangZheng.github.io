@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Misc"
+title: ""
 permalink: /misc/
 author_profile: true
 ---
 
+---
 In addition to my research on language acquisition and processing, I have a strong interest in web development. During my Master's program, I gained proficiency in JavaScript, but my current focus has shifted to R programming. Leveraging R Shiny, I have developed several tools for linguistic research. Additionally, I am currently building an interactive learning application using R Shiny.
 
 
