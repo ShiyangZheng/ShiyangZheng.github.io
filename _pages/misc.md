@@ -16,7 +16,7 @@ R shiny tools:
 - [A guide for conducting meta-analysis](https://shiyangzheng.shinyapps.io/metaguider)
 
 - [An LLM Rating Generator](https://shiyangzheng.shinyapps.io/chatRaterShiny)
-- [V-Det-N Idioms I found](https://idiomaster.shinyapps.io/idiom_shower)
+- [V-Det-N English Idioms Database](https://idiomaster.shinyapps.io/idiom_shower)
 
 ---
 Pavlovia tools:
