@@ -23,8 +23,10 @@ Academic background
 
 Language background
 -------
-- Chinese ▰▰▰▰▰(▱) mother tongue
+- 中文|汉语 Chinese ▰▰▰▰▰(▱)
+  - 普通话 Mandarin ▰▰▰▰▱ 二甲
+  - 白话 Cantonese ▰▱▱▱▱ beginner
 - English ▰▰▰▰▱ C1
-- Japanese ▰▰▱▱▱ B1
-- German ▰▱▱▱▱ beginner 
+- 日本語 ▰▰▱▱▱ B1
+- Deutsch ▰▱▱▱▱ beginner 
 
