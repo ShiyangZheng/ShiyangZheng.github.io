@@ -8,7 +8,7 @@ My research revolves around how our multilingual minds work.
 
 How Multilinguals process and learn their languages? 
 ======
-The multilingual system is not simply a combination of L1 and L2 (and additional languages). The traditional view portrays each language we know as independent systems in our mind. However, numerous studies suggest that languages in our mind actually interact with one another. The learning of words in one language has an impact on all other languages as well as the language system itself. This new perspective originates from the Dynamic Systems Theory (de Bot, 2008; Larsen-Freeman & Cameron, 2008).
+The multilingual system is not simply a combination of L1 and L2 (and additional languages). The traditional view portrays each language we know as independent systems in our mind. However, numerous studies suggest that languages in our mind actually interact with one another. The learning of words in one language has an impact on all other languages as well as the language system itself. This new perspective originates from the Dynamic Systems Theory ([Larsen-Freeman & Cameron, 2007](https://onlinelibrary.wiley.com/doi/10.1111/j.1473-4192.2007.00148.x); [de Bot, 2008](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-4781.2008.00712.x)).
 
 In my research, I have explored how our dynamic multilingual systems respond to the task of deriving the meaning of novel words during reading and the resulting learning gains achieved through significant cognitive efforts. 
 
