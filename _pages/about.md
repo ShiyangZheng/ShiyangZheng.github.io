@@ -19,7 +19,7 @@ Academic background
  
 - MA in Linguistics and Applied Linguistics, Beijing Foreign Studies University, Beijing, China (2021-2024)
   - I was a member of the Language Cognition and Education Lab
-    - [National Research Centre for Foreign Language Education](https://en.bfsu.edu.cn/2021/08/13/c_157690.htm)
+    - [National Research Centre for Foreign Language Education](https://sinotefl.bfsu.edu.cn/)
 
 - BA in Teaching Chinese to Speakers of Other Languages, Yan'an University, Sha'anxi, China (2016-2020)
 
