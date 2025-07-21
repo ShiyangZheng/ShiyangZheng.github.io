@@ -13,7 +13,7 @@ I am currently pursuing my PhD at the University of Nottingham with funding from
 
 Academic background
 ------
-- PhD in Applied Linguistics, [University of Nottingham](https://www.nottingham.ac.uk/research/groups/cral/research-groups/nplll/notts-psych-and-lang-learning.aspx), Nottingham, UK (2024 - )
+- PhD candidate in Applied Linguistics, [University of Nottingham](https://www.nottingham.ac.uk/research/groups/cral/research-groups/nplll/notts-psych-and-lang-learning.aspx), Nottingham, UK (2024 - )
   - I am a member of the Psycholinguistics Research Group
 
 - MA in Linguistics and Applied Linguistics, [Beijing Foreign Studies University](https://sinotefl.bfsu.edu.cn/), Beijing, China (2021-2024)
