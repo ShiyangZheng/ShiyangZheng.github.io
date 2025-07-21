@@ -4,14 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Thesis
-------
-- Lexical Inferencing in A Multilingual Mind: Insights from Chinese-English-Japanese trilinguals’ eye-movements during reading
-
-Manuscripts
-------
-
-- **Shiyang., Zheng**, Lin., Fan, Qingxu., Zhai, Jiao., Zhang, & Rong., Wei. (under review). Form-Meaning Trade-off: Insights from Chinese-English-Japanese Trilinguals’ Lexical Inferencing.
 
 
 2024
