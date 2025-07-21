@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-In addition to my research on language acquisition and processing, I have a strong interest in web development. During my Master's program, I gained proficiency in JavaScript, but my current focus has shifted to R programming. Leveraging R Shiny, I have developed several tools for linguistic research. Additionally, I am currently building an interactive learning application using R Shiny to further explore its capabilities in educational technology.
+In addition to my research on language acquisition and processing, I have a strong interest in web development. During my Master's program, I gained proficiency in JavaScript, but my current focus has shifted to R programming. Leveraging R Shiny, I have developed several tools for linguistic research. Additionally, I am currently building an interactive learning application using R Shiny.
 
 
 ---
@@ -19,10 +19,11 @@ R shiny tools:
   - It is inspired by [Martínez et. al, 2025](https://link.springer.com/article/10.3758/s13428-024-02515-z)
   
 - [V-Det-N English Idioms Database](https://idiomaster.shinyapps.io/idiom_shower)
+  - Most researchers tend to use this kind of idioms to control syntactic variations
 
 ---
 Pavlovia tools:
 
-- [Pavlovia Survey: LexTALE - Chinese Version](https://run.pavlovia.org/pavlovia/survey-2024.2.0/?surveyId=f3d1ce77-cba5-4d4b-9c1a-0819f606ca23)
+- [Pavlovia Survey: LexTALE - Chinese Version](https://pavlovia.org/surveys/f3d1ce77-cba5-4d4b-9c1a-0819f606ca23?tab=0)
   - If you want to combine [LexTALE](https://www.lextale.com/) to your Pavlovia studies, you can use this template
 
