@@ -21,12 +21,14 @@ Academic background
 
 - BA in Teaching Chinese to Speakers of Other Languages, [Yan'an University](https://wgyxy.yau.edu.cn/), Shaanxi, China (2016-2020)
 
-Language background
--------
-- 中文|汉语 Chinese ▰▰▰▰▰(▱)
-  - 普通话 Mandarin ▰▰▰▰▱ 二甲
-  - 白话 Cantonese ▰▱▱▱▱ beginner
-- English ▰▰▰▰▱ C1
-- 日本語 ▰▰▱▱▱ B1
-- Deutsch ▰▱▱▱▱ beginner 
+### Language Background
+
+| Language       | Proficiency          | 
+|----------------|----------------------|
+| **中文(汉语)** | ▰▰▰▰▰ (Native)      |
+|  - 普通话      | ▰▰▰▰▱ (Advanced)    |
+|  - 粤语        | ▰▱▱▱▱ (Beginner)    |
+| **English**    | ▰▰▰▰▱ (C1)          |
+| **日本語**     | ▰▰▱▱▱ (B1)          |
+| **Deutsch**    | ▰▱▱▱▱ (Beginner)    |
 
