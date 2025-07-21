@@ -50,10 +50,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+google_site_verification : “Shiyang Zheng", ”shiyang zheng“, "shiyangzheng", "郑诗扬“
+bing_site_verification   : “Shiyang Zheng", ”shiyang zheng“, "shiyangzheng", "郑诗扬“
+alexa_site_verification  : “Shiyang Zheng", ”shiyang zheng“, "shiyangzheng", "郑诗扬“
+yandex_site_verification : “Shiyang Zheng", ”shiyang zheng“, "shiyangzheng", "郑诗扬“
 
 # Social Sharing
 twitter:
