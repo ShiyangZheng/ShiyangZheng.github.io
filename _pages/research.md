@@ -14,6 +14,6 @@ In my research, I have explored how our dynamic multilingual systems respond to 
 
 As I delved into related papers, particularly those rooted in cognitive linguistics, I began to question the validity of the concept of the 'word'.
 
-A highly relevant line of research that caught my attention is formulaic language. It encompasses units ranging from components of words to syntactically complete phrases. The flexibility of such language units offers an opportunity to re-evaluate the concept of the word. 
+A highly relevant line of research that caught my attention is formulaic language. It encompasses units ranging from components of words to syntactically complete phrases (explore this interesting [website](https://www.phrase-explorer.com/) for examples). The flexibility of such language units offers an opportunity to re-evaluate the concept of the word. 
 
 Consequently, my future focus will be on how formulaic language is processed and acquired in our multilingual minds.
