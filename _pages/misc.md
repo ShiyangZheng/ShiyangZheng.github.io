@@ -5,10 +5,11 @@ permalink: /misc/
 author_profile: true
 ---
 
----
-In addition to my research on language acquisition and processing, I have a strong interest in web development. During my Master's program, I gained proficiency in JavaScript, but my current focus has shifted to R programming. Leveraging R Shiny, I have developed several tools for psycholinguistic research. 
-I like online experiments, as they are convenient for both researchers and participants. As such, I am fascinated by [Pavlovia](https://pavlovia.org/) and other online experiment platforms, and I have put some of my energy into making otherwise offline experiments accessible online on these platforms.
-I am developing my idiom learning app these days, hopefully it will be up and running this October. After I finish the development and the experiments based on it, I will put it here too.
+Beyond my work in language acquisition and processing, I'm really passionate about web development. I first got into JavaScript during my Master's program, but these days I'm mostly working with R programming. I've built several psycholinguistics research tools using R Shiny.
+
+What excites me is creating online experiments - they're so much more convenient for everyone involved. That's why I've been exploring platforms like [Pavlovia](https://pavlovia.org/), and I've spent time adapting traditional lab experiments to work online.
+
+Right now, I'm developing an idiom learning app that I hope to launch by October. Once it's ready and I've run some experiments with it, I'll be sharing it here too!
 
 ---
 ## R shiny tools:
@@ -27,5 +28,5 @@ I am developing my idiom learning app these days, hopefully it will be up and ru
 ## Pavlovia tools:
 
 - [Pavlovia Survey: LexTALE - Chinese Version](https://run.pavlovia.org/pavlovia/survey-2024.2.0/?surveyId=f3d1ce77-cba5-4d4b-9c1a-0819f606ca23)
-  - If you want to combine [LexTALE](https://www.lextale.com/) to your Pavlovia studies, you can use this template (Pavlovia - Explore - Search: 'LexTALE')
+  - If you want to combine [LexTALE](https://www.lextale.com/) to your Pavlovia studies, you can use this template ([Pavlovia](https://pavlovia.org/) - Explore - Search: 'LexTALE')
 
