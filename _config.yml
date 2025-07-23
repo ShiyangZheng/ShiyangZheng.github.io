@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Shīyáng Zhèng"
   avatar           : "self.png"
-  bio              : "Shī55 yáng35 Zhèng51. /n The numbers indicate the tones on each vowel. The tone values range from 1 (lowest) - 5 (highest)."
+  bio              : "Shī55 yáng35 Zhèng51. The numbers indicate the tones on each vowel. The tone values range from 1 (lowest) - 5 (highest)."
   location         : "Nottingham, UK"
-  wikipedia        : "https://resources.allsetlearning.com/chinese/pronunciation/Four_tones"
+  # wikipedia        : "https://resources.allsetlearning.com/chinese/pronunciation/Four_tones"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.cz/citations?hl=zh-CN&user=RyfmgH4AAAAJ"
   email            : shiyang.zheng@nottingham.ac.uk
   researchgate     : "https://www.researchgate.net/profile/Shiyang-Zheng-4" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://resources.allsetlearning.com/chinese/pronunciation/Four_tones"
   bitbucket        :
   codepen          :
   dribbble         :
