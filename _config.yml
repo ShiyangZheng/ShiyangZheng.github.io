@@ -8,9 +8,8 @@
 # Site Settings
 locale                   : "en-GB"
 title                    : "Shīyáng Zhèng"
-"
 title_separator          : "-"
-name                     : &name "Shīyáng Zhèng"
+name                     : &name "Shī55yáng35 Zhèng51"
 description              : &description "personal description"
 url                      : https://shiyangzheng.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shiyang Zheng"
+  name             : "Shī55yáng35 Zhèng51"
   avatar           : "self.png"
-  bio              : "I'm trying to understand the mechanism underlying the mental lexicon by studying the way we process and acquire novel words and formulaic sequences."
+  bio              : "The numbers indicate the tones on each vowel."
   location         : "Nottingham, UK"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
