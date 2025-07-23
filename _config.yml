@@ -7,9 +7,10 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Shiyang Zheng"
+title                    : "Shīyáng Zhèng"
+"
 title_separator          : "-"
-name                     : &name "Shiyang Zheng"
+name                     : &name "Shīyáng Zhèng"
 description              : &description "personal description"
 url                      : https://shiyangzheng.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
