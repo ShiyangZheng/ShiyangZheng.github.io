@@ -9,7 +9,7 @@
 locale                   : "en-GB"
 title                    : "Shīyáng Zhèng"
 title_separator          : "-"
-name                     : &name "Shī55yáng35 Zhèng51"
+name                     : &name "Shīyáng Zhèng"
 description              : &description "personal description"
 url                      : https://shiyangzheng.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shī55yáng35 Zhèng51"
+  name             : "Shīyáng Zhèng"
   avatar           : "self.png"
-  bio              : "The numbers indicate the tones on each vowel."
+  bio              : "Shī55 yáng35 Zhèng51. The numbers indicate the tones on each vowel. The tone values range from 1 (lowest) -5 (highest)."
   location         : "Nottingham, UK"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
