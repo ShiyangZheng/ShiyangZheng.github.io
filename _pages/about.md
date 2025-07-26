@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Overview
-======
+
 I am currently pursuing my PhD at the University of Nottingham with funding from the [Economic and Social Research Council](https://app.dimensions.ai/details/grant/grant.14683485). My research focuses on the cognitive processes underlying language acquisition, particularly investigating how individuals comprehend and acquire both novel and fixed expressions. My current work examines second language learners' acquisition and processing of idioms (such as [V-Det-N idioms](https://idiomaster.shinyapps.io/idiom_shower/)).
 
 Academic background
