@@ -26,7 +26,7 @@ Right now, I'm developing an idiom learning app that I hope to launch by October
   - Most researchers tend to use this kind of idioms to control for syntactic variations
  
 - [Linear Mixed-Effects Model Explorer](https://shiyangzheng.shinyapps.io/llm-explorer/)
-  - A step-by-step practical tutorial on Linear Mixed-Effects Model, generate the code and data you need
+  - A step-by-step practical tutorial on Linear Mixed-Effects Model, generating the code and data you need
 
 ---
 ## Pavlovia tools:
