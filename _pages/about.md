@@ -27,7 +27,7 @@ Language Background
 |----------------|----------------------|
 | **中文 （汉语）** | ▰▰▰▰▰      |
 |  - _普通话 Mandarin_     | ▰▰▰▰▱  二甲 Not bad for a southerner :)   |
-|  - _白话 Cantonese_       | ▰▱▱▱▱ Friends from Guangdong said I need to work on the 9-tone system |
+|  - _白話 Cantonese_       | ▰▱▱▱▱ Friends from Guangdong said I need to work on the 9-tone system |
 | **English**    | ▰▰▰▰▱  C1          |
 | **日本語**     | ▰▰▱▱▱  [Bussu](https://www.busuu.com/en/it-works/courses) said I was at B2, but I can only read :(  |
 | **Deutsch**    | ▰▱▱▱▱  Learning basic phrases on [Duolingo](https://www.duolingo.com)    |
