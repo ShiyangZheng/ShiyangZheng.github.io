@@ -16,7 +16,7 @@ Right now, I'm developing an idiom learning app that I hope to launch by October
 
 - [Updated Vocabulary Levels Test (UVLT) for English and Japanese](https://shiyangzheng.shinyapps.io/uvlt)
   - The English version is an online version of [Webb et al., 2017](https://www.edu.uwo.ca/about/faculty-profiles/stuart-webb/_docs/nvlt-version-b.pdf)
-  - The Japanese version is made and used by myself during my [MA](https://kns.cnki.net/kcms2/article/abstract?v=hx6LgM6qJjtxbeE_jONbpdCU0AVJubZakgOESEUg5jHerl47eDKt4uae9JqkKd0I0VVnFTb9h2yMqL0ZNaorJDW1vtyfj-4ES5Sx-qQqXWxujxmOiQguVpBKzZB5E2siZ0rl6VYYpu5shyidbSQoVFHUqp985IIVdrU1WqvVcHY=&uniplatform=NZKPT) studies, and it is based on the principles of the UVLT
+  - The Japanese version is made and used by myself during my [MA](https://link.cnki.net/doi/10.26962/d.cnki.gbjwu.2024.000690) studies, and it is based on the principles of the UVLT
   - You can register your own test and collect data with this link
     - Your data can be deleted at your will   
 
