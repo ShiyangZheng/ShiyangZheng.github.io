@@ -29,7 +29,6 @@ Right now, I'm developing an idiom learning app that I hope to launch by October
 install.packages("chatRater")
 
 # developmental version
-remotes::install_github("ShiyangZheng/chatRater")
 pak::pkg_install("ShiyangZheng/chatRater")
 ```
   
