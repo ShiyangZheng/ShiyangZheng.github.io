@@ -22,10 +22,14 @@ Right now, I'm developing an idiom learning app that I hope to launch by October
 
 - [An LLM Rating Generator](https://shiyangzheng.shinyapps.io/chatRaterShiny)
   - It is inspired by [Martínez et. al, 2025](https://link.springer.com/article/10.3758/s13428-024-02515-z)
-  - You can also install the R package 'chatRater'
+  - You can also install the R package 'chatRater' to rate both texts and images
     
 ```r
-install.packages('chatRater')
+# production version
+install.packages("chatRater")
+
+# developmental version
+remotes::install_github("ShiyangZheng/chatRater")
 ```
   
 - [V-Det-N English Idioms Database](https://idiomaster.shinyapps.io/idiom_shower)
