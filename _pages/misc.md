@@ -30,6 +30,7 @@ install.packages("chatRater")
 
 # developmental version
 remotes::install_github("ShiyangZheng/chatRater")
+pak::pkg_install("ShiyangZheng/chatRater")
 ```
   
 - [V-Det-N English Idioms Database](https://idiomaster.shinyapps.io/idiom_shower)
