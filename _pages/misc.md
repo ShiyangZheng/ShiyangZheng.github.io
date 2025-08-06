@@ -35,7 +35,7 @@ pak::pkg_install("ShiyangZheng/chatRater")
 - [V-Det-N English Idioms Database](https://idiomaster.shinyapps.io/idiom_shower)
   - Most researchers tend to use this kind of idioms to control for syntactic variations
  
-- [Linear Mixed-Effects Model Explorer](https://shiyangzheng.shinyapps.io/llm-explorer/)
+- [Linear Mixed-Effects Model Explorer](https://shiyangzheng.shinyapps.io/lmem/)
   - A step-by-step practical tutorial on Linear Mixed-Effects Model, generating the code and data you need
 
 ---
