@@ -14,6 +14,10 @@ Right now, I'm developing an idiom learning app that I hope to launch by October
 ---
 ## R shiny tools:
 
+- [✮ idioMaster](http://u5a.cn/DYIkH)
+  - The app I am currently developing
+  - Contact me for the password, if you want a try
+
 - [Updated Vocabulary Levels Test (UVLT) for English and Japanese](https://shiyangzheng.shinyapps.io/uvlt)
   - The English version is an online version of [Webb et al., 2017](https://www.edu.uwo.ca/about/faculty-profiles/stuart-webb/_docs/nvlt-version-b.pdf)
   - The Japanese version is made and used by myself during my [MA](https://link.cnki.net/doi/10.26962/d.cnki.gbjwu.2024.000690) studies, and it is based on the principles of the UVLT
