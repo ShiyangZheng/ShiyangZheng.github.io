@@ -47,4 +47,5 @@ pak::pkg_install("ShiyangZheng/chatRater")
 
 - [Pavlovia Survey: LexTALE - Chinese Version](https://run.pavlovia.org/pavlovia/survey-2024.2.0/?surveyId=f3d1ce77-cba5-4d4b-9c1a-0819f606ca23)
   - If you want to combine [LexTALE](https://www.lextale.com/) to your Pavlovia studies, you can use this template ([Pavlovia](https://pavlovia.org/) - Explore - Search: 'LexTALE')
+  - Use [this](https://idiomaster.shinyapps.io/lextale_transformer/) to process your data
 
