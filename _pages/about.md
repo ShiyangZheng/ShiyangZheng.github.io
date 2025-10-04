@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently pursuing my PhD at the University of Nottingham with funding from the [Economic and Social Research Council](https://gtr.ukri.org/projects?ref=studentship-2924015#/tabOverview). My research focuses on the cognitive processes underlying language acquisition, particularly investigating how individuals comprehend and acquire both novel and fixed expressions. My current work examines second language learners' acquisition and processing of idioms (such as [V-Det-N idioms](https://idiomaster.shinyapps.io/idiom_shower/)).
 
-Besides, I am also a amateur [photographer](https://www.instagram.com/shiyang.zheng), [podcaster](https://open.spotify.com/show/6hvk8uEmw7wKTcHne7Dv35?si=P0yn0pXGTFuQMdMWI_nccw&fbclid=PAZXh0bgNhZW0CMTEAAaeWY3PF3jaqva6pPtFkPLEBwR_br1xVoB-p74m8u7yJ_QXrYs4eIFSc047TrQ_aem_5bzJxq9gmVYV5Z_nzuptWg&nd=1&dlsi=00ee17dbb07c4628), and [writer - without publications](https://read.douban.com/author/63729236/).
+Besides, I am also an amateur [photographer](https://www.instagram.com/shiyang.zheng), [podcaster](https://open.spotify.com/show/6hvk8uEmw7wKTcHne7Dv35?si=P0yn0pXGTFuQMdMWI_nccw&fbclid=PAZXh0bgNhZW0CMTEAAaeWY3PF3jaqva6pPtFkPLEBwR_br1xVoB-p74m8u7yJ_QXrYs4eIFSc047TrQ_aem_5bzJxq9gmVYV5Z_nzuptWg&nd=1&dlsi=00ee17dbb07c4628), and [writer - without publications](https://read.douban.com/author/63729236/).
 
 Academic background
 ------
