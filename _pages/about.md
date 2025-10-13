@@ -16,7 +16,7 @@ Academic background
 ------
 - PhD candidate in Applied Linguistics, [University of Nottingham](https://www.nottingham.ac.uk/research/groups/cral/research-groups/nplll/notts-psych-and-lang-learning.aspx), Nottingham, UK (2024 - )
   - I am a member of the Psycholinguistics Research Group
-  - I am also a lab assistant for the Psycholinguistics and Language Learning Lab (starting 13 October, 2025)
+  - I am also a lab assistant for the Psycholinguistics and Language Learning Lab
 
 - MA in Linguistics and Applied Linguistics, [Beijing Foreign Studies University](https://sinotefl.bfsu.edu.cn/), Beijing, China (2021-2024)
   - I was a member of the Language Cognition and Education Lab
