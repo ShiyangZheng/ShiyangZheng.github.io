@@ -11,7 +11,13 @@ What excites me is creating online experiments - they're so much more convenient
 
 Right now, I'm developing an idiom learning app that I hope to launch by October. Once it's ready and I've run some experiments with it, I'll be sharing it here too!
 
+
 ---
+## Browser add-ons:
+
+- [Web-Text-Highlighter](https://github.com/ShiyangZheng/web-text-highlighter): a Chrome and Edge browser extension
+    - automatically detect and highlight English idioms on web-pages
+
 ## R shiny tools:
 
 - [✮ idioMaster](http://u5a.cn/DYIkH)
