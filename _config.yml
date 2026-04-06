@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-GB"
 site_theme               : "default"
-title                    : "Shīyáng Zhèng"
+title                    : "Zhèng Shī Yáng"
 title_separator          : "-"
-name                     : &name "Shīyáng Zhèng"
+name                     : &name "Zhèng Shī Yáng"
 description              : &description "personal description"
 url                      : https://shiyangzheng.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shīyáng Zhèng"
+  name             : "Zhèng Shī Yáng"
   avatar           : "self.png"
-  bio              : "/ʂʅ55 jɑŋ35 ʈʂɤŋ51/. The numbers indicate the tones on each vowel. The tone values range from 1 (lowest) - 5 (highest)."
+  bio              : "/ʈʂɤŋ51 ʂʅ55 jɑŋ35/. The numbers indicate the tones on each vowel. The tone values range from 1 (lowest) - 5 (highest)."
   # location         : "https://resources.allsetlearning.com/chinese/pronunciation/Four_tones"
   # wikipedia        : "https://resources.allsetlearning.com/chinese/pronunciation/Four_tones"
   employer         :
