@@ -13,6 +13,10 @@ Right now, I'm developing an idiom learning app that I hope to launch by October
 
 
 ---
+## Vibe coding products:
+
+- Play an idiom tetris game now: [click me!](https://shiyangzheng.top/idiom-tetris/)
+
 ## Browser add-ons:
 
 - [Web-Text-Highlighter](https://github.com/ShiyangZheng/web-text-highlighter): a Chrome and Edge browser extension
