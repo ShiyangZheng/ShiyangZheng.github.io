@@ -15,8 +15,7 @@ Right now, I'm developing an idiom learning app that I hope to launch by October
 ---
 ## Vibe coding products:
 
-- Idiom Ietris available on itch.io
-    - [![Play on itch.io](https://img.shields.io/badge/Play-itch.io-FA5C5C?logo=itch.io)](https://shiyang-zheng.itch.io/idiom-tetris)
+- Idiom Tetris available on [![Play on itch.io](https://img.shields.io/badge/Play-itch.io-FA5C5C?logo=itch.io)](https://shiyang-zheng.itch.io/idiom-tetris)
 
 ## Browser add-ons:
 
