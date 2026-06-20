@@ -16,6 +16,7 @@ Right now, I'm developing an idiom learning app that I hope to launch by October
 ## Vibe coding products:
 
 - Idiom Tetris available on [![Play on itch.io](https://img.shields.io/badge/Play-itch.io-FA5C5C?logo=itch.io)](https://shiyang-zheng.itch.io/idiom-tetris)
+- [citation_hop](https://github.com/ShiyangZheng/citation-hop): you can access the direct URLs connected to the bibliography texts you select in your browser with hotkeys  
 
 ## Browser add-ons:
 
